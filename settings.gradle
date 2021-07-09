@@ -1,0 +1,3 @@
+rootProject.name = "QFloatDemo"
+include ':app'
+include ':qfloat'

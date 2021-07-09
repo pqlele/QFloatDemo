@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer name="scale_pivot_x">0</integer>
+    <integer name="scale_pivot_y">0</integer>
+
+</resources>
